@@ -38,12 +38,12 @@ cd SpeedMonitor
 
 ###  Permissions Required To function properly, the app needs:-
 
-- <uses-permission android:name="android.permission.INTERNET" />
-- <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-- <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-- <uses-permission android:name="android.permission.CAR_VENDOR_EXTENSION" /> 
-- <uses-feature android:name="android.hardware.type.automotive" />
-- <uses-permission android:name="android.car.permission.CAR_SPEED"/>
+ <uses-permission android:name="android.permission.INTERNET" />
+ <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+ <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+ <uses-permission android:name="android.permission.CAR_VENDOR_EXTENSION" /> 
+ <uses-feature android:name="android.hardware.type.automotive" />
+ <uses-permission android:name="android.car.permission.CAR_SPEED"/>
 
 ### Dependencies
 
