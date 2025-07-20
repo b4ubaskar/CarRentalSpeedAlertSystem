@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220574058498",
+    "project_id": "speedmonitor",
+    "storage_bucket": "speedmonitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220574058498:android:481d8fd0cc033d8b047f1b",
+        "android_client_info": {
+          "package_name": "com.carrental.speedmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9PaI-SiA-_yKCxRFjvo2QNhwF_kOytw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220574058498:android:48da037ab2e9fa4a047f1b",
+        "android_client_info": {
+          "package_name": "com.carrental.speedmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9PaI-SiA-_yKCxRFjvo2QNhwF_kOytw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
